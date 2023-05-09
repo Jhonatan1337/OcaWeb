@@ -1,0 +1,16 @@
+{
+"companyName": "DaniloLG",
+"productName": "OcaMatematica",
+"productVersion": "0.2",
+"dataUrl": "OcaMatematica.data.unityweb",
+"wasmCodeUrl": "OcaMatematica.wasm.code.unityweb",
+"wasmFrameworkUrl": "OcaMatematica.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a5"
+}
